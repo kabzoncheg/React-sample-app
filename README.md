@@ -1,2 +1,3 @@
 # React-sample-app
-Playing with React
+
+React tutorial with additional tasks solved: https://reactjs.org/tutorial/tutorial.html
